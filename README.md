@@ -1,6 +1,6 @@
 # NAME : SHREYESHKAR SEKAR
 # REFERENCE NUMBER : 24900622
-### EXP 1 : Study-of-basic-gates
+## EXP 1 : Study of basic logic gates
 
 ## AIM: 
 
